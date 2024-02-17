@@ -1,0 +1,6 @@
+[run]
+source = cloud_cost
+omit = 
+    tests/*
+    autoapp.py
+
